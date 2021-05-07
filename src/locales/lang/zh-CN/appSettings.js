@@ -1,0 +1,21 @@
+export default {
+  'app.setting.pagestyle': '页面风格',
+  'app.setting.pagestyle.light': '明亮模式',
+  'app.setting.pagestyle.dark': '黑暗模式',
+  'app.setting.pagestyle.realdark': '全黑模式',
+  'app.setting.themecolor': '主题色',
+  'app.setting.navigationmode': '导航模式',
+  'app.setting.content-width': '内容宽度',
+  'app.setting.fixedheader': '固定导航栏',
+  'app.setting.fixedsidebar': '固定侧边栏',
+  'app.setting.sidemenu': 'Side Menu Layout',
+  'app.setting.topmenu': 'Top Menu Layout',
+  'app.setting.content-width.fixed': 'Fixed',
+  'app.setting.content-width.fluid': 'Fluid',
+  'app.setting.othersettings': '其他设置',
+  'app.setting.weakmode': '减弱色彩',
+  'app.setting.copy': '复制设置',
+  'app.setting.loading': '读取主题',
+  'app.setting.copyinfo': '复制成功，请替换至 src/models/setting.js 中的 defaultSettings',
+  'app.setting.production.hint': '设置面板仅在开发环境中显示, 请手动修改'
+}
