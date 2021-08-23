@@ -8,7 +8,7 @@ import { ACCESS_TOKEN } from '@/store/mutation-types'
 const request = axios.create({
   // API 请求的默认前缀
   // baseURL: process.env.VUE_APP_API_BASE_URL,
-  baseURL: 'http://rap2.qdum.com:38080/app/mock/24',
+  baseURL: 'http://rap2api.taobao.org/app/mock/289321',
   timeout: 6000, // 请求超时时间
 })
 
